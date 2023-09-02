@@ -9,4 +9,3 @@ Este proyecto puede ser importado en Netbeans usando maven
 Tambien puede ser importado directamente en Netbeans.
 Tambien puede ser ejecutado usando las utilidades de mi repositorio: https://github.com/DJeovannyZ/dJavaUtils
 Link del proyecto en Github: https://github.com/DJeovannyZ/za20003-2023-POO-3
-Adicionalmente se agrega captura del ouput en consola.
